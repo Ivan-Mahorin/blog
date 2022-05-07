@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Махорин Иван
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент бакалавриата
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Мои общие интересы включают в себя IT сферу и изучение аналоговых носителей информации.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - IT сфера
+  - Оцифровка видеокассет
+  - Волейбол
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Среднее общее образование.
+      institution: ГБОУ города Москвы "Школа № 1212"
+      year: 2021
+    - course: Бакалавриат. Прикладная информатика.
+      institution: Российский университет дружбы народов
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,7 +48,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Ivan-Mahorin
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -70,8 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Махорин Иван - родился 11.04.2003г в республике Казахстан, Западно-Казахстанская облать, гор. Уральск. Гражданин РФ. Студент бакалавриата Российского университета дружбы народов. Учусь на направлении прикладная информатика. До поступления в институт закончил московскую кадетскую школу в звании вице-ефрейтор c красным дипломом. Многочисленный участник инновационных турниров от JA Russia, MetLife, BOEING и JUNIOR ACHIEVEMENT. Участник WEC Global 3D-Makerthon. Получил квалификацию исполнитель художественно-оформительских работ (графический дизайн и web дизайн). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
