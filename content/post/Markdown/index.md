@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Управление версиями. Git."
+title: "Язык разметки Markdown."
 subtitle: ""
 summary: ""
 authors: [Махорин Иван]

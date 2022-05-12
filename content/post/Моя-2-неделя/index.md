@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Моя первая неделя."
+title: "Моя вторая неделя."
 subtitle: ""
 summary: ""
 authors: [Махорин Иван]
