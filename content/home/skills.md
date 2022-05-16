@@ -33,7 +33,7 @@ feature:
     icon_pack: "emoji"
     name: "Дружелюбность"
     description: "100%"
-  - icon: ":grin:"
+  - icon: ":fearful:"
     icon_pack: "emoji"
     name: "Стрессоустойчивость"
     description: "100%"
