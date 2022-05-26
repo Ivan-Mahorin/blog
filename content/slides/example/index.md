@@ -13,157 +13,93 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Этапы реализации индивидуального проекта
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+[Wowchemy](https://wowchemy.com/) | [GitHub](https://github.com/Ivan-Mahorin)
 
 ---
 
-## Controls
+## Размещение на Github pages заготовки для персонального сайта.
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+- Установить необходимое программное обеспечение.
+- Скачать шаблон темы сайта.
+- Разместить его на хостинге git.
+- Установить параметр для URLs сайта.
+- Разместить заготовку сайта на Github pages.
 
 ---
 
-## Code Highlighting
+## Добавить к сайту данные о себе.
 
-Inline code: `variable`
+Список добавляемых данных:
 
-Code block:
+- Разместить фотографию владельца сайта.
+- Разместить краткое описание владельца сайта (Biography).
+- Добавить информацию об интересах (Interests).
+- Добавить информацию от образовании (Education).
 
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+Сделать пост по прошедшей неделе.
 
----
+Добавить пост на тему по выбору:
 
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+- Управление версиями. Git.
+- Непрерывная интеграция и непрерывное развертывание (CI/CD).
 
 ---
 
-## Fragments
+## Добавить к сайту достижения.
 
-Make content appear incrementally
+Список достижений.
 
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
+- Добавить информацию о навыках (Skills).
+- Добавить информацию об опыте (Experience).
+- Добавить информацию о достижениях (Accomplishments).
 
-Press `Space` to play!
+Сделать пост по прошедшей неделе.
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+Добавить пост на тему по выбору:
 
----
-
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
+- Легковесные языки разметки.
+- Языки разметки. LaTeX.
+- Язык разметки Markdown.
 
 ---
 
-## Speaker Notes
+## Добавить к сайту ссылки на научные и библиометрические ресурсы.
 
-Add speaker notes to your presentation
+Зарегистрироваться на соответствующих ресурсах и разместить на них ссылки на сайте:
 
-```markdown
-{{%/* speaker_note */%}}
+- eLibrary : https://elibrary.ru/;
+- Google Scholar : https://scholar.google.com/;
+- ORCID : https://orcid.org/;
+- Mendeley : https://www.mendeley.com/;
+- ResearchGate : https://www.researchgate.net/;
+- Academia.edu : https://www.academia.edu/;
+- arXiv : https://arxiv.org/;
+- github : https://github.com/.
 
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
+Сделать пост по прошедшей неделе.
 
-Press the `S` key to view the speaker notes!
+Добавить пост на тему по выбору:
 
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
-
----
-
-## Themes
-
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+- Оформление отчёта.
+- Создание презентаций.
+- Работа с библиографией.
 
 ---
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+## Добавить с сайту все остальные элементы.
+
+- Сделать записи для персональных проектов.
+- Сделать пост по прошедшей неделе.
+- Добавить пост на тему: Языки научного программирования.
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+## Размещение двуязычного сайта на Github.
 
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
-
----
-
-## Custom CSS Example
-
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
----
-
-# Questions?
-
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+- Сделать поддержку английского и русского языков.
+- Разместить элементы сайта на обоих языках.
+- Разместить контент на обоих языках.
+- Сделать пост по прошедшей неделе.
+- Добавить пост на тему по выбору (на двух языках).
